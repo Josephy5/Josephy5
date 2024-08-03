@@ -19,8 +19,6 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="center">Experienced with...</h2>
 
 <div align="center">
