@@ -1,6 +1,3 @@
-<h2 align="center">Hello, I'm Joseph/NotJ0seph</h2>
-
-###
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0f398550-cb65-499c-a1b0-fd026cd84af0" width="300" alt="Normal" />
@@ -8,9 +5,12 @@
 
 ###
 
+<h2 align="center">Hello, I'm Joseph/NotJ0seph</h2>
 <p align="center">A Digital media/Artist guy that can code.<br>Specialized in Game Development, UI/UX, Design, and Media<br><br>Currently learning to make shaders for Unity via HLSL/CG & ShaderGraph, and improving Excel skills.</p>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Josephy5&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
@@ -18,6 +18,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ae" height="30" alt="adobeaftereffects logo"  />
