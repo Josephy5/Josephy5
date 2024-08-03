@@ -6,7 +6,7 @@
 ###
 
 <h2 align="center">Hello, I'm Joseph/NotJ0seph</h2>
-<p align="center">A Digital media/Artist guy that can code.<br>Specialized in Game Development, UI/UX, Design, and Media<br><br>Currently learning to make shaders for Unity via HLSL/CG & ShaderGraph, and improving Excel skills.</p>
+<p align="center">A Digital media/Artist guy that can code.<br>Specialized in Game Development, UI/UX, Design, and Media.<br><br>Currently learning to make shaders for Unity via HLSL/CG & ShaderGraph, and improving Excel skills.</p>
 
 ###
 
