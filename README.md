@@ -4,9 +4,9 @@
 
 <br clear="both">
 
-
-  ![Normal](https://github.com/user-attachments/assets/0f398550-cb65-499c-a1b0-fd026cd84af0)
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0f398550-cb65-499c-a1b0-fd026cd84af0" width="300" alt="Normal" />
+</div>
 
 ###
 
@@ -92,9 +92,9 @@
 
 ###
 
-
-  ![Miyu_Early](https://github.com/user-attachments/assets/6212ba26-641e-497b-ad6a-7d4d3bd9dc0f)
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6212ba26-641e-497b-ad6a-7d4d3bd9dc0f" alt="Miyu_Early" />
+</div>
 
 ###
 
