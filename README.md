@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0f398550-cb65-499c-a1b0-fd026cd84af0" width="300" alt="Normal" />
+  <img src="https://github.com/user-attachments/assets/0f398550-cb65-499c-a1b0-fd026cd84af0" width="200" alt="Normal" />
 </div>
 
 ###
@@ -19,7 +19,19 @@
 
 ###
 
+<h2 align="center">Examples</h2>
+
+###
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6212ba26-641e-497b-ad6a-7d4d3bd9dc0f" width="500" alt="Miyu_Early"/>
+</div>
+
+###
+
 <h2 align="center">Experienced with...</h2>
+
+###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ae" height="30" alt="adobeaftereffects logo"  />
@@ -77,16 +89,6 @@
   <img src="https://skillicons.dev/icons?i=webflow" height="30" alt="webflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
-</div>
-
-###
-
-<h2 align="center">Examples</h2>
-
-###
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/6212ba26-641e-497b-ad6a-7d4d3bd9dc0f" width="500" alt="Miyu_Early"/>
 </div>
 
 ###
