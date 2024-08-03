@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  ![Normal](https://github.com/user-attachments/assets/0f398550-cb65-499c-a1b0-fd026cd84af0)
 </div>
 
 ###
@@ -85,6 +85,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
 </div>
 
+
 ###
 
 <h2 align="center">Examples</h2>
@@ -92,7 +93,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  ![Miyu_Early](https://github.com/user-attachments/assets/6212ba26-641e-497b-ad6a-7d4d3bd9dc0f)
 </div>
 
 ###
