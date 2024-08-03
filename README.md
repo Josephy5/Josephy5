@@ -24,7 +24,7 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6212ba26-641e-497b-ad6a-7d4d3bd9dc0f" width="450" alt="Miyu_Early"/>
+  <img src="https://github.com/user-attachments/assets/6212ba26-641e-497b-ad6a-7d4d3bd9dc0f" width="400" alt="Miyu_Early"/>
 </div>
 
 ###
