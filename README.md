@@ -27,6 +27,10 @@
   <img src="https://github.com/user-attachments/assets/6212ba26-641e-497b-ad6a-7d4d3bd9dc0f" width="400" alt="Miyu_Early"/>
 </div>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/646bc29b-e5ef-4673-a8b0-32d91895943d" width="500" alt="Skybox_Early"/>
+</div>
+
 ###
 
 <h2 align="center">Experienced with...</h2>
