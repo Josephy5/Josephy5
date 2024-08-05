@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0f398550-cb65-499c-a1b0-fd026cd84af0" width="110" alt="Normal" />
+  <img src="https://github.com/user-attachments/assets/0f398550-cb65-499c-a1b0-fd026cd84af0" width="115" alt="Normal" />
 </div>
 
 ###
@@ -13,8 +13,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Josephy5&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="125" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Josephy5&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="125" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Josephy5&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="105" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Josephy5&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="105" alt="languages graph"  />
 </div>
 
 ###
