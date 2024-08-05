@@ -13,8 +13,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Josephy5&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="105" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Josephy5&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="105" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Josephy5&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="120" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Josephy5&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="120" alt="languages graph"  />
 </div>
 
 ###
@@ -24,11 +24,11 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6212ba26-641e-497b-ad6a-7d4d3bd9dc0f" width="400" alt="Miyu_Early"/>
+  <img src="https://github.com/user-attachments/assets/6212ba26-641e-497b-ad6a-7d4d3bd9dc0f" width="350" alt="Miyu_Early"/>
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/646bc29b-e5ef-4673-a8b0-32d91895943d" width="500" alt="Skybox_Early"/>
+  <img src="https://github.com/user-attachments/assets/646bc29b-e5ef-4673-a8b0-32d91895943d" width="350" alt="Skybox_Early"/>
 </div>
 
 ###
