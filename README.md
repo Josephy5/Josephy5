@@ -31,6 +31,10 @@
   <img src="https://github.com/user-attachments/assets/646bc29b-e5ef-4673-a8b0-32d91895943d" width="350" alt="Skybox_Early"/>
 </div>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4783a647-7a3e-45f1-8196-d1cbabc03004" width="350" alt="Skybox_Early"/>
+</div>
+
 ###
 
 <h2 align="center">Experienced with...</h2>
