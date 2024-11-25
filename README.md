@@ -25,12 +25,12 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6212ba26-641e-497b-ad6a-7d4d3bd9dc0f" width="450" alt="Miyu_Early"/>
 </div>
-<p align="center">This one is a showcase of various shader effects that I created, including the Kuwahara filter, lens flare, and volumetric light scattering. These effects were developed to enhance graphic fidelity in the Unity game engine, achieve a unique artistic style, and facilitate my self-learning in shader development while ensuring optimal and playable performance. To demonstrate these effects, I used a character model named Miyu from Blue Archive. You can find some of the effect in the repo, PostProcessing-URP</p>
+<p align="center">This one is a showcase of various shader effects that I created, including the Kuwahara filter, lens flare, and volumetric light scattering. These effects were developed to enhance graphic fidelity in the Unity game engine and achieve a unique artistic style while ensuring optimal and playable performance. To demonstrate these effects, I used a character model named Miyu from Blue Archive. You can find some of the effect in the repo, PostProcessing-URP</p>
 <br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/646bc29b-e5ef-4673-a8b0-32d91895943d" width="450" alt="Skybox_Early"/>
 </div>
-<p align="center">This one is a showcase of a custom stylized skybox shader and its UI and adjutsable parameters in Unity's inspector panel. These effects were developed to enhance graphic fidelity in the Unity game engine, achieve a unique artistic style, and facilitate my self-learning in shader development while ensuring optimal and playable performance. The Repo for this is Stylized-Skybox.</p>
+<p align="center">This one is a showcase of a custom stylized skybox shader and its UI and adjutsable parameters in Unity's inspector panel. These effects were developed to enhance graphic fidelity in the Unity game engine and achieve a unique artistic style while ensuring optimal and playable performance. The Repo for this is Stylized-Skybox.</p>
 <br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ee17a28f-8d2b-439c-b850-c393dc160405" width="450" alt="Cross-Hatch"/>
