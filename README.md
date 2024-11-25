@@ -20,38 +20,43 @@
 <h2 align="center">Examples</h2>
 
 ###
-<h4 align="center">- Note: it will take a while for GitHub to load in all the images and gifs of the examples, please be patient! -</h4>
+<h4 align="center">- Please wait a moment for GitHub to load all the images and gifs from the examples below -</h4>
 <br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6212ba26-641e-497b-ad6a-7d4d3bd9dc0f" width="450" alt="Miyu_Early"/>
 </div>
-<p align="center">A showcase of the series of shader effects from the PostProcessingURP repo, using a character, Miyu from Blue archive to visualize how it looks with the effects on.</p>
+<p align="center">This one is a showcase of various shader effects that I created, including the Kuwahara filter, lens flare, and volumetric light scattering. These effects were developed to enhance graphic fidelity in the Unity game engine, achieve a unique artistic style, and facilitate my self-learning in shader development while ensuring optimal and playable performance. To demonstrate these effects, I used a character model named Miyu from Blue Archive. You can find some of the effect in the repo, PostProcessing-URP</p>
 <br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/646bc29b-e5ef-4673-a8b0-32d91895943d" width="450" alt="Skybox_Early"/>
 </div>
-<p align="center">A custom stylized skybox shader, showcasing not only the effect but also the UI and parameter options in Unity's inspector panel.</p>
+<p align="center">This one is a showcase of a custom stylized skybox shader and its UI and adjutsable parameters in Unity's inspector panel. These effects were developed to enhance graphic fidelity in the Unity game engine, achieve a unique artistic style, and facilitate my self-learning in shader development while ensuring optimal and playable performance. The Repo for this is Stylized-Skybox.</p>
+<br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ee17a28f-8d2b-439c-b850-c393dc160405" width="450" alt="Cross-Hatch"/>
+</div>
+<p align="center">This one is a showcase of a custom cross hatching shader effect created for Serious Point Games. The effect was designed to give their game a pencil sketch appearance without the need for texture artists or the need to draw or reapply a pencil sketch texture onto the meshes.</p>
 <br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4783a647-7a3e-45f1-8196-d1cbabc03004" width="450" alt="transition"/>
 </div>
-<p align="center">A Transition shader effect created for Serious Point Games to ease workload relating cinametic transitions for the game.</p>
+<p align="center">This is a showcase of a Transition shader effect created for Serious Point Games. This effect was designed to reduce workload related to cinematic transitions for the game, making it easier and more intuitive to implement simple transitions. The repo for this is Transition-Post-Processing.</p>
 <br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/47c901e4-3478-4e8d-96be-228a8f614934" width="450" alt="fog">
 </div>
-<p align="center">A custom stylized fog shader effect created for Serious Point Games to replicate the gradient fog system used in Firewatch.</p>
+<p align="center">This is a showcase of a custom stylized fog shader effect created for Serious Point Games. This effect was designed to replicate the gradient based fog system used in the game, Firewatch. The repo for this is StylizedGradient-Fog-UnityURP.</p>
 <br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ab54a4f3-4ea6-492b-bec8-e158a915a17c" width="450" alt="volumetric spotlight">
 </div>
-<p align="center">A custom fake volumetric light shader effect created for Serious Point Games to replicate the look of a volumetric light for spotlights without needing to use a volumetric fog/lighting system 
-(using a translucent material on a mesh to replicate it instead).</p>
+<p align="center">This is a showcase of a volumetric spotlight shader effect created for Serious Point Games. This effect was designed to replicate the look of a volumetric light for spotlights without needing to use a volumetric fog/lighting system 
+as a means to run on lower end hardware and improve the game's preformance. The repo for this is FakeVolumetricLight-Unity.</p>
 <br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/55c8f6d5-275e-4414-ad52-121ee1e30f55" width="450" alt="keyhole">
 </div>
-<p align="center">A custom keyhole overlay shader effect created for Serious Point Games to tackle an issue of overlaying a keyhole over the screen while still have a capability to use any keyhole shape to cutout and overlay with.</p>
+<p align="center">This is a showcase of a custom keyhole overlay shader effect created for Serious Point Games. This effect was created to tackle the challenge of overlaying a keyhole cutout on the screen while also allowing flexibility to use any keyhole shape for the cutout and overlay intuitively. The repo for this is KeyholeOverlay-UnityURP.</p>
 
 ###
 
