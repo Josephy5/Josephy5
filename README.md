@@ -20,7 +20,7 @@
 <h2 align="center">Examples</h2>
 
 ###
-<h4 align="center">Note: it will take a while for GitHub to load in all the images and gifs of the examples, please be patient!</h4>
+<h4 align="center">- Note: it will take a while for GitHub to load in all the images and gifs of the examples, please be patient! -</h4>
 <br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6212ba26-641e-497b-ad6a-7d4d3bd9dc0f" width="450" alt="Miyu_Early"/>
