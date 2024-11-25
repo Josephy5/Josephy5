@@ -52,7 +52,6 @@
   <img src="https://github.com/user-attachments/assets/55c8f6d5-275e-4414-ad52-121ee1e30f55" width="450" alt="keyhole">
 </div>
 <p align="center">A custom keyhole overlay shader effect created for Serious Point Games to tackle an issue of overlaying a keyhole over the screen while still have a capability to use any keyhole shape to cutout and overlay with.</p>
-<br>
 
 ###
 
