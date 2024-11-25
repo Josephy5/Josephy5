@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0f398550-cb65-499c-a1b0-fd026cd84af0" width="115" alt="Normal" />
+  <img src="https://github.com/user-attachments/assets/0f398550-cb65-499c-a1b0-fd026cd84af0" width="100" alt="Normal" />
 </div>
 
 ###
@@ -10,11 +10,9 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josephy5&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="120" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Josephy5&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Josephy5&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="100" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Josephy5&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="100" alt="languages graph"  />
 </div>
 
 ###
@@ -22,19 +20,45 @@
 <h2 align="center">Examples</h2>
 
 ###
-
+<h4 align="center">Note: it will take a while for GitHub to load in all the images and gifs of the examples, please be patient!</h4>
+<br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6212ba26-641e-497b-ad6a-7d4d3bd9dc0f" width="350" alt="Miyu_Early"/>
+  <img src="https://github.com/user-attachments/assets/6212ba26-641e-497b-ad6a-7d4d3bd9dc0f" width="450" alt="Miyu_Early"/>
 </div>
-
+<p align="center">A showcase of the series of shader effects from the PostProcessingURP repo, using a character, Miyu from Blue archive to visualize how it looks with the effects on.</p>
+<br>
+<br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/646bc29b-e5ef-4673-a8b0-32d91895943d" width="350" alt="Skybox_Early"/>
+  <img src="https://github.com/user-attachments/assets/646bc29b-e5ef-4673-a8b0-32d91895943d" width="450" alt="Skybox_Early"/>
 </div>
-
+<p align="center">A custom stylized skybox shader, showcasing not only the effect but also the UI and parameter options in Unity's inspector panel.</p>
+<br>
+<br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4783a647-7a3e-45f1-8196-d1cbabc03004" width="350" alt="Skybox_Early"/>
+  <img src="https://github.com/user-attachments/assets/4783a647-7a3e-45f1-8196-d1cbabc03004" width="450" alt="transition"/>
 </div>
-
+<p align="center">A Transition shader effect created for Serious Point Games to ease workload relating cinametic transitions for the game.</p>
+<br>
+<br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/47c901e4-3478-4e8d-96be-228a8f614934" width="450" alt="fog">
+</div>
+<p align="center">A custom stylized fog shader effect created for Serious Point Games to replicate the gradient fog system used in Firewatch.</p>
+<br>
+<br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ab54a4f3-4ea6-492b-bec8-e158a915a17c" width="450" alt="volumetric spotlight">
+</div>
+<p align="center">A custom fake volumetric light shader effect created for Serious Point Games to replicate the look of a volumetric light for spotlights without needing to use a volumetric fog/lighting system 
+(using a translucent material on a mesh to replicate it instead).</p>
+<br>
+<br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/55c8f6d5-275e-4414-ad52-121ee1e30f55" width="450" alt="keyhole">
+</div>
+<p align="center">A custom keyhole overlay shader effect created for Serious Point Games to tackle an issue of overlaying a keyhole over the screen while still have a capability to use any keyhole shape to cutout and overlay with.</p>
+<br>
+<br>
 ###
 
 <h2 align="center">Experienced with...</h2>
