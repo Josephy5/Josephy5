@@ -48,6 +48,12 @@
 <p align="center">This is a showcase of a custom stylized fog shader effect created for Serious Point Games. This effect was designed to replicate the gradient based fog system used in the game, Firewatch. The repo for this is StylizedGradient-Fog-UnityURP.</p>
 <br>
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/c283213e-a2e1-4544-a230-91b8c30db6be" width="450" alt="volumetric light scattering">
+</div>
+<p align="center">This is a showcase of a volumetric light scattering shader effect created for Serious Point Games. The effect was designed to replicate the visuals of godrays being rendered and projected in real-time from the sun. 
+It utilizes a ray marching technique to calculate light scattering and applies a Gaussian blur to blend the godrays, all while ensuring optimized and playable performance in-game. The repo for this is VolumetricLightScattering-UnityURP.</p>
+<br>
+<div align="center">
   <img src="https://github.com/user-attachments/assets/ab54a4f3-4ea6-492b-bec8-e158a915a17c" width="450" alt="volumetric spotlight">
 </div>
 <p align="center">This is a showcase of a volumetric spotlight shader effect created for Serious Point Games. This effect was designed to replicate the look of a volumetric light for spotlights without needing to use a volumetric fog/lighting system 
