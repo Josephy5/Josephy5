@@ -60,6 +60,11 @@ It utilizes a ray marching technique to calculate light scattering and applies a
 as a means to run on lower end hardware and improve the game's preformance. The repo for this is FakeVolumetricLight-Unity.</p>
 <br>
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/a0ae9d54-8009-4471-8f0c-5b6f11c8b7fe" width="450" alt="eye opening">
+</div>
+<p align="center">This is a showcase of a custom eye opening shader effect created for Serious Point Games. This effect was created to that simulates the look of eyes opening and closing to the camera screen in a subtle and semi-realistic manner. The repo for this is EyeOpeningEffect-UnityURP.</p>
+<br>
+<div align="center">
   <img src="https://github.com/user-attachments/assets/55c8f6d5-275e-4414-ad52-121ee1e30f55" width="450" alt="keyhole">
 </div>
 <p align="center">This is a showcase of a custom keyhole overlay shader effect created for Serious Point Games. This effect was created to tackle the challenge of overlaying a keyhole cutout on the screen while also allowing flexibility to use any keyhole shape for the cutout and overlay intuitively. The repo for this is KeyholeOverlay-UnityURP.</p>
