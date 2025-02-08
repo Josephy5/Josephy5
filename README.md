@@ -28,7 +28,7 @@
 <p align="center">This one is a showcase of various shader effects that I created, including the Kuwahara filter, lens flare, and volumetric light scattering. These effects were developed to enhance graphic fidelity in the Unity game engine and achieve a unique artistic style while ensuring optimal and playable performance. To demonstrate these effects, I used a character model named Miyu from Blue Archive. You can find some of the effect in the repo, PostProcessing-URP.</p>
 <br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b2ad1856-fa41-4d65-9608-47889f8f23a8" width="700" alt="GIF"/>
+  <img src="https://github.com/user-attachments/assets/b2ad1856-fa41-4d65-9608-47889f8f23a8" width="450" alt="TechArtToolkit_Preview"/>
 </div>
 <p align="center">This one is a showcase that features a preview of two animations playing simultaneously: one is uncompressed, and the other is compressed using the Tech Art Toolkit I created for the Unity editor. It demonstrates the minimal loss in animation quality despite the compression, which helps optimize storage space usage. The toolkit offers much more than just animation compression and you can find its repository showcase at TechArtToolkit.</p>
 <br>
