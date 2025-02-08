@@ -30,7 +30,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b2ad1856-fa41-4d65-9608-47889f8f23a8" width="700" alt="GIF"/>
 </div>
-<p align="center">This one is a showcase that features a preview of two animations playing simultaneously: one is uncompressed, and the other is compressed using the Tech Art Toolkit I created for the Unity editor. It demonstrates the minimal loss in animation quality despite the compression, which helps optimize storage space usage. The toolkit offers much more than just animation compression and you can refer to its repository showcase at TechArtToolkit.</p>
+<p align="center">This one is a showcase that features a preview of two animations playing simultaneously: one is uncompressed, and the other is compressed using the Tech Art Toolkit I created for the Unity editor. It demonstrates the minimal loss in animation quality despite the compression, which helps optimize storage space usage. The toolkit offers much more than just animation compression and you can find its repository showcase at TechArtToolkit.</p>
 <br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/646bc29b-e5ef-4673-a8b0-32d91895943d" width="450" alt="Skybox_Early"/>
