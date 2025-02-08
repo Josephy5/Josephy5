@@ -25,7 +25,12 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6212ba26-641e-497b-ad6a-7d4d3bd9dc0f" width="450" alt="Miyu_Early"/>
 </div>
-<p align="center">This one is a showcase of various shader effects that I created, including the Kuwahara filter, lens flare, and volumetric light scattering. These effects were developed to enhance graphic fidelity in the Unity game engine and achieve a unique artistic style while ensuring optimal and playable performance. To demonstrate these effects, I used a character model named Miyu from Blue Archive. You can find some of the effect in the repo, PostProcessing-URP</p>
+<p align="center">This one is a showcase of various shader effects that I created, including the Kuwahara filter, lens flare, and volumetric light scattering. These effects were developed to enhance graphic fidelity in the Unity game engine and achieve a unique artistic style while ensuring optimal and playable performance. To demonstrate these effects, I used a character model named Miyu from Blue Archive. You can find some of the effect in the repo, PostProcessing-URP.</p>
+<br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b2ad1856-fa41-4d65-9608-47889f8f23a8" width="700" alt="GIF"/>
+</div>
+<p align="center">This one is a showcase that features a preview of two animations playing simultaneously: one is uncompressed, and the other is compressed using the Tech Art Toolkit I created for the Unity editor. It demonstrates the minimal loss in animation quality despite the compression, which helps optimize storage space usage. The toolkit offers much more than just animation compression and you can refer to its repository showcase at TechArtToolkit.</p>
 <br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/646bc29b-e5ef-4673-a8b0-32d91895943d" width="450" alt="Skybox_Early"/>
@@ -35,17 +40,12 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ee17a28f-8d2b-439c-b850-c393dc160405" width="450" alt="Cross-Hatch"/>
 </div>
-<p align="center">This one is a showcase of a custom cross hatching shader effect created for Serious Point Games. The effect was designed to give their game a pencil sketch appearance without the need for texture artists or the need to draw or reapply a pencil sketch texture onto the meshes.</p>
+<p align="center">This one is a showcase of a custom cross hatching shader effect created for Serious Point Games. The effect was designed to give their game a pencil sketch appearance without the need for texture artists or the need to draw or reapply a pencil sketch texture onto the meshes. The repo for this is CrossHatchingEffect-UnityURP</p>
 <br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4783a647-7a3e-45f1-8196-d1cbabc03004" width="450" alt="transition"/>
 </div>
 <p align="center">This is a showcase of a Transition shader effect created for Serious Point Games. This effect was designed to reduce workload related to cinematic transitions for the game, making it easier and more intuitive to implement simple transitions. The repo for this is Transition-Post-Processing.</p>
-<br>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/47c901e4-3478-4e8d-96be-228a8f614934" width="450" alt="fog">
-</div>
-<p align="center">This is a showcase of a custom stylized fog shader effect created for Serious Point Games. This effect was designed to replicate the gradient based fog system used in the game, Firewatch. The repo for this is StylizedGradient-Fog-UnityURP.</p>
 <br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c283213e-a2e1-4544-a230-91b8c30db6be" width="450" alt="volumetric light scattering">
@@ -54,15 +54,14 @@
 It utilizes a ray marching technique to calculate light scattering and applies a Gaussian blur to blend the godrays, all while ensuring optimized and playable performance in-game. The repo for this is VolumetricLightScattering-UnityURP.</p>
 <br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ab54a4f3-4ea6-492b-bec8-e158a915a17c" width="450" alt="volumetric spotlight">
-</div>
-<p align="center">This is a showcase of a volumetric spotlight shader effect created for Serious Point Games. This effect was designed to replicate the look of a volumetric light for spotlights without needing to use a volumetric fog/lighting system 
-as a means to run on lower end hardware and improve the game's preformance. The repo for this is FakeVolumetricLight-Unity.</p>
-<br>
-<div align="center">
   <img src="https://github.com/user-attachments/assets/a0ae9d54-8009-4471-8f0c-5b6f11c8b7fe" width="450" alt="eye opening">
 </div>
 <p align="center">This is a showcase of a custom eye opening shader effect created for Serious Point Games. This effect was created to that simulates the look of eyes opening and closing to the camera screen in a subtle and semi-realistic manner. The repo for this is EyeOpeningEffect-UnityURP.</p>
+<br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/47c901e4-3478-4e8d-96be-228a8f614934" width="450" alt="fog">
+</div>
+<p align="center">This is a showcase of a custom stylized fog shader effect created for Serious Point Games. This effect was designed to replicate the gradient based fog system used in the game, Firewatch. The repo for this is StylizedGradient-Fog-UnityURP.</p>
 
 ###
 
